@@ -1,0 +1,72 @@
+body {
+    background-image: url("https://smarketingcloud.com/wp-content/uploads/2015/04/Flatlay-Desk-8.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+span {
+    font-size: 10px;
+}
+
+#complete {
+    color: grey;
+    float: right;
+    padding-right: 10px;
+}
+
+#remove {
+    color: white;
+    float: right;
+}
+
+* {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#container {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10em;
+}
+
+#header {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+#input {
+    width: 100%;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+#todolist {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task {
+    color: white;
+    background: rgba(0,0,0, .8);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+
+.completed {
+    color: gray;
+    text-decoration: line-through;
+    
+    
+}
+
+#remove {
+    padding-right: 10px;
+    font-size: 20px;
+     margin-top: -2.8px;
+}
